@@ -1,0 +1,73 @@
+@media (max-width: 480px) {
+  .cabecalho {
+    justify-content: center;
+  }
+
+  .logo {
+    font-size: 16px;
+    padding: 8px 14px;
+  }
+
+  .logo i {
+    font-size: 20px;
+  }
+
+  .info {
+    display: none;
+  }
+
+  .menu {
+    gap: 15px;
+  }
+
+  .imagem {
+    flex: 0 0 150px;
+    width: 150px;
+    height: 150px;
+  }
+
+  .imagem i {
+    font-size: 60px;
+  }
+
+  .rodape {
+    flex-direction: column;
+    text-align: center;
+    gap: 15px;
+  }
+
+  .redes {
+    justify-content: center;
+  }
+
+  .titulo-secao {
+    font-size: 21px;
+  }
+
+  .endereco h3 {
+    font-size: 19px;
+  }
+
+  .card {
+    padding: 20px;
+  }
+
+  .card-icone {
+    width: 64px;
+    height: 64px;
+  }
+
+  .card-icone i {
+    font-size: 26px;
+  }
+
+  .chamada h2 {
+    font-size: 21px;
+  }
+
+  .botao-chamada {
+    display: block;
+    font-size: 16px;
+    padding: 12px 20px;
+  }
+}
