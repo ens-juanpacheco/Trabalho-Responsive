@@ -84,4 +84,20 @@
   .item-cardapio p {
     font-size: 14px;
   }
+
+  .faq {
+    padding: 20px;
+  }
+
+  .faq-sub {
+    font-size: 14px;
+  }
+
+  .faq-item summary {
+    font-size: 16px;
+  }
+
+  .faq-resposta p {
+    font-size: 15px;
+  }
 }
